@@ -161,7 +161,71 @@ h2 {
     color: #4F5665;
 }
 
-.galochka {
+.content_3 {
+    margin-top: 210px;
+}
+
+.texts1 {
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+ /* identical to box height, or 143% */    
+text-align: center;
+color: #0B132A;
+}
+
+.texts2 {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #4F5665;
+    padding-top: 20px;
+}
+
+.content_4 {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.inner-content4 {
+    display: flex;
+    flex-direction: column;
+    padding: 80px 90px;
+    background: #FFFFFF;
+    border: 2px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 10px;
+
     
+}
+.inner-content4 li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #4F5665;
+}
+
+.inner-content4 h1 {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #0B132A;
+    padding-top: 30px;
 }
 
